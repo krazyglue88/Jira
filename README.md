@@ -2,6 +2,8 @@
 
 Добавил тестовое задание по оформлению баг репорта в Jira
 
+
+
 ![1  Managing workflow](https://github.com/krazyglue88/Jira/assets/139983939/8d0f282e-9a63-45ab-b861-aea50b21d215)
 ![2  Ошибка в хэдэре](https://github.com/krazyglue88/Jira/assets/139983939/13689841-843a-4c94-8b9a-e33407fa9cc9)
 ![3  Ошибка в хэдэре](https://github.com/krazyglue88/Jira/assets/139983939/3ad9d456-cab1-4869-92cc-aabca9aae67b)
